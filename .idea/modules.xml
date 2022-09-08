@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TweetAppForAndroid.iml" filepath="$PROJECT_DIR$/.idea/modules/TweetAppForAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TweetAppForAndroid.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TweetAppForAndroid.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TweetAppForAndroid.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TweetAppForAndroid.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TweetAppForAndroid.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TweetAppForAndroid.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TweetAppForAndroid.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TweetAppForAndroid.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
